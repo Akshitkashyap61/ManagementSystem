@@ -1,2 +1,2 @@
-# Student-ManagementSystem
-Project on student management system
+# ManagementSystem
+Project on library management system
